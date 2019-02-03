@@ -1,4 +1,4 @@
-# [Box]
+# Box
 
 **[View Live Preview](https://kiddo18.github.io/box_makeharvard/)**
 
